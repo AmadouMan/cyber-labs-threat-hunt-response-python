@@ -5,7 +5,7 @@ from collections import Counter
 AWS_LOG_URL = "https://example-aws-logs/api/events"
 GCP_LOG_URL = "https://example-gcp-logs/api/events"
 
-BLOCK_URL = "http://192.168.112.133:9099"
+BLOCK_URL = "http://192.168.112.144:9099"
 
 THRESHOLD = 5
 DRY_RUN = True
