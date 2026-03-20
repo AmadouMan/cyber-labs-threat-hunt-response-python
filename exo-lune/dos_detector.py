@@ -1,8 +1,8 @@
 import requests
 from collections import Counter
 
-LOG_URL = "http://192.168.112.133:8088/logs.json"
-BLOCK_URL = "http://192.168.112.133:9099"
+LOG_URL = "http://192.168.112.144:8088/logs.json"
+BLOCK_URL = "http://192.168.112.144:9099"
 
 THRESHOLD = 3
 DRY_RUN = False
